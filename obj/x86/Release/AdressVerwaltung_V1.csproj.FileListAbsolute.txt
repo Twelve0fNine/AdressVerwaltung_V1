@@ -1,0 +1,11 @@
+D:\Eigene Dateien\Projekte\AdressVerwaltung_V1\AdressVerwaltung_V1\bin\Release\AdressVerwaltung_V1.exe
+D:\Eigene Dateien\Projekte\AdressVerwaltung_V1\AdressVerwaltung_V1\bin\Release\AdressVerwaltung_V1.pdb
+D:\Eigene Dateien\Projekte\AdressVerwaltung_V1\AdressVerwaltung_V1\obj\x86\Release\MainWindow.baml
+D:\Eigene Dateien\Projekte\AdressVerwaltung_V1\AdressVerwaltung_V1\obj\x86\Release\MainWindow.g.cs
+D:\Eigene Dateien\Projekte\AdressVerwaltung_V1\AdressVerwaltung_V1\obj\x86\Release\App.g.cs
+D:\Eigene Dateien\Projekte\AdressVerwaltung_V1\AdressVerwaltung_V1\obj\x86\Release\AdressVerwaltung_V1_MarkupCompile.cache
+D:\Eigene Dateien\Projekte\AdressVerwaltung_V1\AdressVerwaltung_V1\obj\x86\Release\AdressVerwaltung_V1.g.resources
+D:\Eigene Dateien\Projekte\AdressVerwaltung_V1\AdressVerwaltung_V1\obj\x86\Release\AdressVerwaltung_V1.Properties.Resources.resources
+D:\Eigene Dateien\Projekte\AdressVerwaltung_V1\AdressVerwaltung_V1\obj\x86\Release\AdressVerwaltung_V1.csproj.GenerateResource.Cache
+D:\Eigene Dateien\Projekte\AdressVerwaltung_V1\AdressVerwaltung_V1\obj\x86\Release\AdressVerwaltung_V1.exe
+D:\Eigene Dateien\Projekte\AdressVerwaltung_V1\AdressVerwaltung_V1\obj\x86\Release\AdressVerwaltung_V1.pdb
